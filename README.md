@@ -1,6 +1,6 @@
 # Scalatra App #
 ## Descripción
-Para crear una aplicación en Scala utilizando Scalatra.
+Aplicación en Scala utilizando Scalatra que maneja solicitudes HTTP.
 
 ## Build & Run ##
 
